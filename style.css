@@ -35,7 +35,7 @@ main {
 }
 
 .card-img {
-    height: 350px;
+    height: 300px;
     width: 100%;
     border-radius: 15px;
     
@@ -48,6 +48,7 @@ main {
 }
 
 .card-title {
+    font-size: 20px;
     color: hsl(0, 0%, 100%);
 }
 
